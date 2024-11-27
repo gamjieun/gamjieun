@@ -1,4 +1,4 @@
-## Hi there 👋
+## 저는 부족하지만 파이썬과 C언어와 안드로이드 스튜디오를 다룰줄 알고, 공기업 전산직 취업을 희망합니다. 저는 동물과 K-pop을 좋아해요.
 
 <!--
 **gamjieun/gamjieun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
